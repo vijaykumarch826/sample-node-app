@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: node-app
-        image: 713181485824.dkr.ecr.ap-south-1.amazonaws.com/sample-node-app:latest
+        image: 713181485824.dkr.ecr.us-east-1.amazonaws.com/sample-node-app:latest
         ports:
         - containerPort: 3000
 ---
